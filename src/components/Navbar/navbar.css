@@ -1,0 +1,22 @@
+.navbar {
+  background-image: url('../../images/hotel.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.filter-background {
+  background: rgb(110,255,97);
+  background: linear-gradient(328deg, rgba(110,255,97,.6) 0%, rgba(102,233,249,.5) 100%);
+}
+
+.btn:disabled {
+  color: rgb(180, 180, 180);
+  border-color: rgb(180, 180, 180);
+}
+
+.btn-slider {
+  transition: .2s;
+}
+.btn-slider:hover {
+  background-color: rgba(23, 184, 184, 0.534);
+}
